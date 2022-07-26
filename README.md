@@ -27,7 +27,7 @@ ___
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Frontend Developer from Russia.
 - :man_student: Studying at ITMO, 3rd year student.
 - :telescope: Completed courses on Udemy: [JavaScript](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/), [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/), [CSS](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/), In process... (You can click on it :monocle_face:)
-- :teapot: English level B1-B2
+- 💂‍ English level B1-B2
 
 ---
 
