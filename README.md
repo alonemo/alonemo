@@ -49,7 +49,7 @@ ___
 <img src="https://readme-typing-svg.herokuapp.com?font=Edu+VIC+WA+NT+Beginner&size=30&duration=4000&color=F700F6&background=FFFFFF00&center=true&vCenter=true&width=450&lines=Frontend+developer"/>
 
 <div id="badges">
-<a href="t-do.ru/every1wannafly">
+<a href="https://t.me/every1wannafly">
   <img src="https://img.shields.io/badge/Telegram-grey?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://vk.com/alonemo">
