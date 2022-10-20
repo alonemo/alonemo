@@ -9,7 +9,7 @@ ___
 ### :man_technologist: 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖 :
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Frontend Developer from Russia.
 - :man_student: Studying at ITMO, 3rd year student.
-- :telescope: Completed courses on Udemy: [JavaScript](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/), [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/), [CSS](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/), In process... (You can click on it :monocle_face:)
+- :telescope: Completed courses on Udemy: [JavaScript](https://drive.google.com/file/d/1wmLLffcCAybuWTceLPPVVrHJkyTUSCY3/view?usp=sharing), [React](https://drive.google.com/file/d/1rPUZaGYyT9LSNTeRffQ_Nf1Kf2Uyhe-u/view?usp=sharing), [CSS](https://drive.google.com/file/d/1ESv4Y7ZA7IZMS5QWOTkCwDkJErXGP-J5/view?usp=sharing)
 - 💂‍ English level B1-B2
 
 ---
@@ -29,20 +29,8 @@ ___
 
 ---
 
-### :fire: 𝕄𝕪 𝕊𝕥𝕒𝕥𝕤 :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alonemo&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alonemo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :trophy: 𝕋𝕣𝕠𝕡𝕙𝕚𝕖𝕤
-[![trophy](https://github-profile-trophy.vercel.app/?username=alonemo)](https://github.com/alonemo/github-profile-trophy)
-
----
-
 ### :computer: ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤
-- empty rn
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alonemo&repo=react-demo)](https://github.com/alonemo/react-demo)
 
 ---
 <div align="center">
