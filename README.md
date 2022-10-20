@@ -32,6 +32,7 @@ ___
 ### :computer: ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alonemo&repo=react-demo)](https://github.com/alonemo/react-demo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alonemo&repo=ReduxCart)](https://github.com/alonemo/ReduxCart)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alonemo&repo=Quotes-service)](https://github.com/alonemo/Quotes-service)
 
 
 ---
