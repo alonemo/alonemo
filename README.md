@@ -34,6 +34,7 @@ ___
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alonemo&repo=ReduxCart)](https://github.com/alonemo/ReduxCart)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alonemo&repo=Quotes-service)](https://github.com/alonemo/Quotes-service)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alonemo&repo=HackerNewsClone)](https://github.com/alonemo/HackerNewsClone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alonemo&repo=vk-test-front-aaa)](https://github.com/alonemo/vk-test-front-aaa)
 
 
 ---
