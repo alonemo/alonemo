@@ -8,7 +8,7 @@ ___
 
 ### :man_technologist: 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖 :
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Frontend Developer from Russia.
-- :man_student: Studying at ITMO, 3rd year student.
+- :man_student: Studying at ITMO, 4rd year student.
 - :telescope: Completed courses on Udemy: [JavaScript](https://drive.google.com/file/d/1wmLLffcCAybuWTceLPPVVrHJkyTUSCY3/view?usp=sharing), [React](https://drive.google.com/file/d/1rPUZaGYyT9LSNTeRffQ_Nf1Kf2Uyhe-u/view?usp=sharing), [CSS](https://drive.google.com/file/d/1ESv4Y7ZA7IZMS5QWOTkCwDkJErXGP-J5/view?usp=sharing)
 - 💂‍ English level B1-B2
 
